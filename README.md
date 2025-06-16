@@ -21,7 +21,7 @@
 
 ### Featured Project
 
-[![Wuerflii](https://img.shields.io/badge/Wuerflii-Yahtzee%20Online-blue?logo=github)](https://github.com/Nick-Leon-342/Wuerflii.git)
+[![Wuerflii](https://img.shields.io/badge/Wuerflii%20Online-blue?logo=github)](https://github.com/Nick-Leon-342/Wuerflii.git)
 
 A digital, open-source version of Yahtzee with a modern UI and self-hosting support.<br>
 Check it out and roll the dice!
